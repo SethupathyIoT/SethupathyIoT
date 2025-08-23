@@ -20,31 +20,17 @@ I love working on projects that involve **real-world problem-solving using IoT t
 
 ## 🛠 Technical Skills  
 
-### **Programming**  
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+**Programming:**  
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Hardware Platforms**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![8051 Microcontroller](https://img.shields.io/badge/8051%20MCU-333333?style=for-the-badge&logo=processor&logoColor=white)  
+**Hardware Platforms:**  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![8051](https://img.shields.io/badge/8051%20MCU-333333?style=for-the-badge&logo=processor&logoColor=white)
 
-### **Protocols & Interfaces**  
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)  
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internet&logoColor=white)  
-![HTTP](https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge&logo=html5&logoColor=white)  
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0078D7?style=for-the-badge&logo=wi-fi&logoColor=white)  
-![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)  
-![UART](https://img.shields.io/badge/UART-003366?style=for-the-badge&logo=serialport&logoColor=white)  
-![SPI](https://img.shields.io/badge/SPI-FF9900?style=for-the-badge&logo=serialport&logoColor=white)  
-![I2C](https://img.shields.io/badge/I2C-009933?style=for-the-badge&logo=serialport&logoColor=white)  
+**Protocols & Interfaces:**  
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=internet&logoColor=white) ![HTTP](https://img.shields.io/badge/HTTP-FF6C37?style=for-the-badge&logo=html5&logoColor=white) ![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0078D7?style=for-the-badge&logo=wi-fi&logoColor=white) ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white) ![UART](https://img.shields.io/badge/UART-003366?style=for-the-badge&logo=serialport&logoColor=white) ![SPI](https://img.shields.io/badge/SPI-FF9900?style=for-the-badge&logo=serialport&logoColor=white) ![I2C](https://img.shields.io/badge/I2C-009933?style=for-the-badge&logo=serialport&logoColor=white)
 
-### **Tools & Platforms**  
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=home-assistant&logoColor=white)  
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+**Tools & Platforms:**  
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=home-assistant&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -80,4 +66,3 @@ I love working on projects that involve **real-world problem-solving using IoT t
 ---
 
 > **Looking for IoT Developer roles – open to collaboration and exciting projects!**
-
