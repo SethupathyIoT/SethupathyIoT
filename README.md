@@ -36,16 +36,11 @@ I love working on projects that involve **real-world problem-solving using IoT t
 
 ## 📌 Featured Projects  
 
-### 🔹 [Smart Home Automation System](#)
-> IoT-based home automation using ESP32, MQTT, and Home Assistant.
+### 🔹 [IoT Based Home Automation System](https://github.com/SethupathyIoT/IoT_Based_Home_Automation_System)
+> IoT-based home automation using **ESP32**, **MQTT**, and **Home Assistant**.
 
-### 🔹 [Industrial Temperature & Humidity Monitor](#)
-> Real-time monitoring with data logging using Raspberry Pi and cloud integration.
-
-### 🔹 [Wireless Sensor Network for Agriculture](#)
-> Low-power IoT solution for soil moisture and environmental monitoring.
-
-*(Links can be added to your actual repositories)*  
+### 🔹 [GPS Tracker with Telegram Bot](https://github.com/SethupathyIoT/GPS_Tracker_with_Telegram_Bot)
+> GPS-based vehicle tracking system integrated with **Telegram Bot** for real-time location updates.
 
 ---
 
