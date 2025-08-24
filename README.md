@@ -3,9 +3,10 @@
 # IoT Developer | Embedded Systems Enthusiast | Tech Innovator
 
 - 📧 **Email:** [SethupathyIoT@proton.me](mailto:SethupathyIoT@proton.me)
+- 🌐 **Portfolio:** [https://sethupathy.netlify.app](https://sethupathy.netlify.app)
 - 📞 **Phone:** +91 93426 07320
 - 📍 **Location:** Tamil Nadu, India
-- 🌐 **Portfolio:** [https://sethupathy.netlify.app](https://sethupathy.netlify.app)
+
 
 ---
 
