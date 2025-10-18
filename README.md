@@ -4,7 +4,6 @@
 
 - 📧 **Email:** [SethupathyIoT@proton.me](mailto:SethupathyIoT@proton.me)
 - 🌐 **Portfolio:** [sethupathy.netlify.app](https://sethupathy.netlify.app)
-- 📞 **Phone:** +91 93426 07320
 - 📍 **Location:** Tamil Nadu, India
 
 
