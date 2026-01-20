@@ -3,7 +3,7 @@
 ## 🚀 IoT Developer | Embedded Systems Engineer | Tech Innovator  
 
 📧 **Email:** [SethupathyIoT@proton.me](mailto:SethupathyIoT@proton.me)  
-🌐 **Portfolio:** [sethupathy.netlify.app](https://sethupathy.netlify.app)  
+🌐 **Portfolio:** [sethupathy.netlify.app](https://sethupathy.iot-hub.in/)  
 📍 **Location:** Tamil Nadu, India  
 
 ---
