@@ -101,7 +101,7 @@ Embedded Systems, Microcontrollers (8051, PIC), C and Python Programming, Sensor
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SethupathyIoT&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SethupathyIoT&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SethupathyIoT&layout=compact&theme=default)
 
