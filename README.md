@@ -72,8 +72,6 @@ I enjoy building **practical, real-world solutions** that bridge **hardware and 
 ---
 
 ## 📊 GitHub Statistics  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SethupathyIoT&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SethupathyIoT&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SethupathyIoT&theme=tokyonight)  
 ![Profile Views](https://komarev.com/ghpvc/?username=SethupathyIoT&label=PROFILE+VIEWS&color=blue&style=flat-square)
