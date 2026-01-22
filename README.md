@@ -1,11 +1,16 @@
+
+
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>
+
 # Hi, I'm Sethupathy
 
 ## IoT Developer | Embedded Systems Engineer
 
 Chennai, India  
 Email: SethupathyIoT@proton.me  
-Mobile: +91 93426 07320  
-Portfolio: https://sethupathy.netlify.app  
+Portfolio: https://sethupathy.IoT-Hub.In
 GitHub: https://github.com/SethupathyIoT  
 LinkedIn: https://linkedin.com/in/SethupathyIoT  
 
@@ -13,101 +18,98 @@ LinkedIn: https://linkedin.com/in/SethupathyIoT
 
 ## About Me
 
-I am an IoT Developer with strong experience in embedded systems, firmware development, and real-time device communication.  
-I specialize in building reliable IoT solutions by integrating hardware with cloud platforms using industry-standard protocols.
+I am an **IoT Developer** with strong experience in **embedded systems, firmware development, and real-time device communication**.  
+I specialize in building **reliable, scalable IoT solutions** by integrating hardware with cloud platforms using **industry-standard protocols**.
 
-My interests include industrial automation, smart systems, and energy-efficient embedded design.
+My core interests include **Industrial IoT, smart automation systems, sensor networks, and energy-efficient embedded design**.
 
----
-
-## Technical Skills
-
-### Programming Languages
-- Embedded C  
-- C++  
-- Python  
-
-### Hardware Platforms
-- STM32  
-- PIC  
-- ESP32  
-- Arduino  
-- Raspberry Pi  
-- 8051  
-
-### Communication Protocols
-- MQTT  
-- Modbus  
-- TCP/IP  
-- Wi-Fi  
-- Bluetooth  
-
-### Interfaces
-- UART  
-- SPI  
-- I2C  
-
-### Tools and Platforms
-- Arduino IDE  
-- ESPHome  
-- Home Assistant  
-- GitHub  
-
-### Core Concepts
-- Sensor Networks  
-- Data Acquisition  
-- Power Optimization  
-- Firmware Debugging  
-- Industrial IoT  
+<br/>
 
 ---
 
-## Professional Experience
+## 🛠 My Skill Set
 
-### IoT Developer  
-TRUCON – Brickslate Industries Private Limited  
-Coimbatore, Tamil Nadu  
-Aug 2024 – Present  
+<table>
+<tr>
 
-- Developed and optimized embedded firmware for STM32, PIC, and ESP32 microcontrollers  
-- Implemented MQTT and Modbus protocols for secure machine-to-cloud communication  
-- Created Python-based tools for data logging and real-time monitoring  
-- Integrated sensors and actuators for industrial automation and predictive maintenance  
-- Supported smart factory deployments with improved system reliability and energy efficiency  
+<td valign="top" width="33%">
 
----
+### 🔹 Programming Languages
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</div>
 
-### IoT Testing and Support Engineer (Intern)  
-Mar 2024 – Aug 2024  
+</td>
 
-- Performed end-to-end testing of industrial IoT systems ensuring high uptime  
-- Debugged hardware and firmware issues across Wi-Fi and BLE connectivity  
-- Prepared technical documentation, test reports, and troubleshooting guides  
-- Assisted in device configuration, deployment, and maintenance  
+<td valign="top" width="33%">
 
----
+### 🔹 Hardware Platforms
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/STM32_logo.svg" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45"/>
+</div>
 
-## Education
+<p align="center"><strong>PIC | 8051</strong></p>
 
-Bachelor of Science in Internet of Things  
-RVS Arts and Science College, Bharathiar University  
-Aug 2022 – Apr 2025  
-CGPA: 6.87 / 10  
+</td>
 
-Relevant Coursework:  
-Embedded Systems, Microcontrollers (8051, PIC), C and Python Programming, Sensor Networks, PLCs, Data Analytics  
+<td valign="top" width="33%">
 
----
+### 🔹 Communication Protocols
+<div align="center">
+<img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" height="40"/>
+</div>
 
-## GitHub Statistics
+</td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SethupathyIoT&show_icons=true&count_private=true&include_all_commits=true)
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SethupathyIoT&layout=compact&theme=default)
+<br/>
 
----
+<table>
+<tr>
 
-## Contact
+<td valign="top" width="50%">
 
-Open to IoT development roles, embedded systems positions, and industry collaborations.  
-Feel free to connect via email or LinkedIn.
+### 🔹 Interfaces
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248457.png" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248462.png" height="40"/>
+</div>
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🔹 Tools & Platforms
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" height="45"/>
+<img src="https://esphome.io/_images/logo-text.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🔹 Core Concepts
+```text
+✔ Sensor Networks
+✔ Data Acquisition
+✔ Power Optimization
+✔ Firmware Debugging
+✔ Industrial IoT
