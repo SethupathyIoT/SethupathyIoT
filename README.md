@@ -27,46 +27,51 @@ My core interests include **Industrial IoT, smart automation systems, sensor net
 
 ---
 
+<br/>
+
 ## 🛠 My Skill Set
 
-<table>
+<table width="100%">
 <tr>
 
 <td valign="top" width="33%">
 
 ### 🔹 Programming Languages
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+</p>
+
+<p align="center"><strong>Embedded C • C++ • Python</strong></p>
 
 </td>
 
 <td valign="top" width="33%">
 
 ### 🔹 Hardware Platforms
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/STM32_logo.svg" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45"/>
-</div>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/STM32_logo.svg" height="38"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="38"/>
+</p>
 
-<p align="center"><strong>PIC | 8051</strong></p>
+<p align="center"><strong>PIC • 8051</strong></p>
 
 </td>
 
 <td valign="top" width="33%">
 
 ### 🔹 Communication Protocols
-<div align="center">
-<img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" height="40"/>
-</div>
+<p align="center">
+  <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" height="34"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" height="34"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/483/483947.png" height="34"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" height="34"/>
+</p>
+
+<p align="center"><strong>MQTT • Modbus • TCP/IP • Wi-Fi • Bluetooth</strong></p>
 
 </td>
 
@@ -75,29 +80,33 @@ My core interests include **Industrial IoT, smart automation systems, sensor net
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 
 <td valign="top" width="50%">
 
 ### 🔹 Interfaces
-<div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248457.png" height="40"/>
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248462.png" height="40"/>
-</div>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="36"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248457.png" height="36"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248462.png" height="36"/>
+</p>
+
+<p align="center"><strong>UART • SPI • I2C</strong></p>
 
 </td>
 
 <td valign="top" width="50%">
 
 ### 🔹 Tools & Platforms
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" height="45"/>
-<img src="https://esphome.io/_images/logo-text.svg" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="38"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" height="38"/>
+  <img src="https://esphome.io/_images/logo-text.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38"/>
+</p>
+
+<p align="center"><strong>Arduino IDE • ESPHome • Home Assistant • GitHub</strong></p>
 
 </td>
 
@@ -111,5 +120,8 @@ My core interests include **Industrial IoT, smart automation systems, sensor net
 ✔ Sensor Networks
 ✔ Data Acquisition
 ✔ Power Optimization
+✔ Firmware Debugging
+✔ Industrial IoT
+
 ✔ Firmware Debugging
 ✔ Industrial IoT
